@@ -13,7 +13,7 @@ public class _6DefaultMethod {
 }
 
 interface Food{
-//    void concreateMethod(){}
+//    void concreteMethod(){}
     void dineIn();
     default void deliver(){
         System.out.println("Delivering Food");
